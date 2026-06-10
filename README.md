@@ -13,7 +13,7 @@ Python · scikit-learn · pandas · NumPy · TF-IDF Vectorization
 
 ## Results
 - Dataset: UCI SMS Spam Collection (mail_data.csv)
-- Accuracy: [add your accuracy %]
+- Accuracy: 96.7%
 
 ## Run Locally
 pip install scikit-learn pandas numpy
